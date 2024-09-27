@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BhargaviPS
 - 👀 I’m interested in back-end development, machine learning and AI.
 - 🌱 I’m currently learning Python and DSA.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on python and AI related projects.
 - 📫 How to reach me: Email(JoestarBhargavi29@gmail.com)
                       LinkedIn(www.linkedin.com/in/bhargavi-prakash-singh-30a576325)
 - 😄 Pronouns: She/her
