@@ -5,7 +5,7 @@
 - 📫 How to reach me: Email(JoestarBhargavi29@gmail.com)
                       LinkedIn(www.linkedin.com/in/bhargavi-prakash-singh-30a576325)
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I am also good at painting and drawing!
+- ⚡ Fun fact: Did I mentioned that I am good at painting?
 
 <!---
 BhargaviPS/BhargaviPS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
