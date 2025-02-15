@@ -1,7 +1,7 @@
 
 # BhargaviPS
 
-I am open to any valuable contributions, feel free to contact me.
+Good contributions are valuable, so I keep refining my skills.
 ## Acknowledgements
 
  - [My Github Profile](https://github.com/BhargaviPS)
@@ -20,7 +20,6 @@ I am open to any valuable contributions, feel free to contact me.
 ## 🚀 About Me
 I'm an engineering student whose really eager to learn; excited to make contributions towards open source...
 Interested in AI, ML, DSA and back-end development.
-Also a participant in the Hacktoberfest2024.
 
 
 
@@ -31,5 +30,5 @@ Also a participant in the Hacktoberfest2024.
 
 
 ## 🛠 Skills
-HTML, Python, C... (hopefully more will be added :p)
+HTML, Python, C, Machine learning, DSA 
 
